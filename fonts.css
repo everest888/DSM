@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'raleway_bold';
+	src: url('../fonts/raleway_bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'raleway_extrabold';
+	src: url('../fonts/raleway_extrabold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'raleway_regular';
+	src: url('../fonts/raleway_regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'raleway_semibold';
+	src: url('../fonts/raleway_semibold.ttf') format('truetype');
+}
